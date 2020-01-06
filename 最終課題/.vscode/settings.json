@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "stdlib.h": "c",
+        "time.h": "c",
+        "*.tcc": "c",
+        "functional": "c",
+        "type_traits": "c"
+    }
+}
