@@ -1233,7 +1233,7 @@ int main(void)
       if (Packman_Dead(my_status_pointer, &layers) == 1)
       {
         HgSetFillColor(HgRGBA(115 / 255, 115 / 255, 115 / 255, 0.7));
-        HgBoxFill(WINDOW / 4 - 7, WINDOW / 2, 300, 85, 0);
+        HgBoxFill(WINDOW / 4 - 7, WINDOW / 2, 340, 85, 0);
         HgSetFont(HG_HB, 70);
         HgSetColor(HG_BLUE);
         HgText(WINDOW / 4, WINDOW / 2, "You Lose");
